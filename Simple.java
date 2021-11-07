@@ -5,6 +5,7 @@ class Simple{
 =======
      System.out.println("Hello Java Rahul");  
        System.out.println("Hello Users");
+      System.out.println("added water branch");
 >>>>>>> thirsty
     }  
 }  
